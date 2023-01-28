@@ -21,4 +21,4 @@ ln9: IMAGE_PATH = "../test_pics/test1.jpg" to "../test_pics/your_pic.jpg"
 6. You and your photo are awesome! You will see result in about 3 seconds (depends on your pc resources).
 
 Example:
-![alt text](img/sample.png)
+![alt text](imgs/sample.png)
