@@ -6,6 +6,8 @@ Dataset : FER 2013 (https://www.kaggle.com/datasets/msambare/fer2013)
 Referencies: Haar cascade classifiers (https://github.com/opencv/opencv/tree/master/data/haarcascades)
 Stack: Keras, TF, numpy, REST-API keras, flask
 
+I used 3 different Haar classifiers, because they really depends on brightness, contrast and gamma of original picture. So you can choose your favorite one, or just use it as is.
+
 How to use:
 1. Copy repository from github using
 
