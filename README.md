@@ -11,13 +11,17 @@ I used 3 different Haar classifiers, because they really depends on brightness, 
 How to use:
 1. Copy repository from github using
 
-git clone https://github.com/FitzTata/face-emotion-recognize
+*git clone https://github.com/FitzTata/face-emotion-recognize*
+
+and install some requirements using
+
+*pip install -r requirements.txt*
 
 2. Run file run_server.py
 3. Put photos in ./test_pics
 4. Edit client.py path to photo like that
 
-ln9: IMAGE_PATH = "../test_pics/test1.jpg" to "../test_pics/your_pic.jpg"
+*ln9: IMAGE_PATH = "../test_pics/test1.jpg" to "../test_pics/your_pic.jpg"*
 
 5. Run file client.py
 6. You and your photo are awesome! You will see result in about 3 seconds (depends on your pc resources).
