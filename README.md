@@ -1,5 +1,5 @@
 # face-emotion-recognize #FER #keras #multi-faces #rest-api
-Face emotions recognise
+Face emotions recognize
 
 Solving Face emotions recognise problen with keras-built nn.  
 Dataset : FER 2013 (https://www.kaggle.com/datasets/msambare/fer2013)  
